@@ -1,5 +1,5 @@
-# T3RN T1RN BOT
-T3RN T1RN Incentivized Testnet. A bot for automating transactions and bridging assets on the t3rn network.
+# T3RN Executor Bot
+T3RN Incentivized Testnet. A bot for automating install executor or node validator on the t3rn network.
 
 
 ## Usage
